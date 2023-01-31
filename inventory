@@ -1,0 +1,8 @@
+[webserver]
+0.0.0.0
+
+[webserver:vars]
+ansible_ssh_user=
+ansible_ssh_password=
+domain_name=
+email=
